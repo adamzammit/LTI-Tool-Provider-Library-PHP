@@ -155,7 +155,7 @@ class ResourceLink
  *
  * @var ToolConsumer $consumer
  */
-    private $consumer = null;
+    protected $consumer = null;
 /**
  * Tool Consumer ID for this resource link.
  *
